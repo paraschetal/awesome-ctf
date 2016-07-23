@@ -243,6 +243,7 @@ Check solve section for steganography.
 - [Pwnable.kr](https://pwnable.kr/) - Pwn Game
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF
 - [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
+- [Stockfighter.io](https://www.stockfighter.io/) - Stockfighter Jailbreak and Stockfighter Trading CTFs
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
